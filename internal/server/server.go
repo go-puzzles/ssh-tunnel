@@ -6,7 +6,7 @@ import (
 	"net/netip"
 	"strings"
 	
-	"github.com/go-puzzles/plog"
+	"github.com/go-puzzles/puzzles/plog"
 	"github.com/go-puzzles/ssh-tunnel/pkg/sshtunnel"
 	"github.com/go-puzzles/ssh-tunnel/sshtunnelpb"
 	"github.com/google/uuid"

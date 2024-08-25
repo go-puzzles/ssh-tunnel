@@ -6,9 +6,9 @@ package main
 import (
 	"os"
 	
-	"github.com/go-puzzles/pflags"
-	"github.com/go-puzzles/plog"
-	"github.com/go-puzzles/plog/level"
+	"github.com/go-puzzles/puzzles/pflags"
+	"github.com/go-puzzles/puzzles/plog"
+	"github.com/go-puzzles/puzzles/plog/level"
 	"github.com/go-puzzles/ssh-tunnel/internal/cmd"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"

@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	
-	"github.com/go-puzzles/pflags"
+	"github.com/go-puzzles/puzzles/pflags"
 	"github.com/go-puzzles/ssh-tunnel/pkg/sshtunnel"
 )
 

@@ -5,8 +5,8 @@ import (
 	"errors"
 	"sort"
 	
-	"github.com/go-puzzles/pflags"
-	"github.com/go-puzzles/plog"
+	"github.com/go-puzzles/puzzles/pflags"
+	"github.com/go-puzzles/puzzles/plog"
 	"github.com/go-puzzles/ssh-tunnel/pkg/sshtunnel"
 	"github.com/olekukonko/tablewriter"
 )

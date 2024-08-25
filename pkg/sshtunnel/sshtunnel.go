@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 	
-	"github.com/go-puzzles/plog"
+	"github.com/go-puzzles/puzzles/plog"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/ssh"
 )
